@@ -44,9 +44,10 @@ public class Sorositas {
 
         Gson gson = new Gson();
 
-        try (FileWriter writer = new FileWriter("D:\\staff.json")) {
+        try (FileWriter writer = new FileWriter("diak.json")) {
 
             gson.toJson(d, writer);
+            gson.toJson(d1,writer);
 
         } catch (IOException e) {
             e.printStackTrace();
