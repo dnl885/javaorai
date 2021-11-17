@@ -1,29 +1,23 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [Get Started](README.md)
 
-## Guides
+## The Basics
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Spaces](the-basics/spaces.md)
+* [Collections](the-basics/collections.md)
+* [The GitBook editor](the-basics/the-gitbook-editor.md)
+* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
+* [Change requests](the-basics/change-requests.md)
 
-## Fundamentals
+## Publishing
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Publishing your content](publishing/publishing-your-content.md)
 
-## Use Cases
+## Tips and tricks
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
 
-## Extras
+## Next steps
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [What next?](next-steps/what-next.md)
